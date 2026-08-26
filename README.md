@@ -32,6 +32,14 @@ Type:
 ```bash
 npx degit chadgarc/react-ts-tailwind-daisyui-starter <new-project-name>
 ```
+Then to install node_modules you can use:
+```bash
+pnpm install
+```
+Or:
+```bash
+npm install
+```
 
 Then, inside your project:
 ```bash
