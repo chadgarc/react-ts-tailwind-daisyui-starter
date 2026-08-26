@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## React Compiler
 
-The React Compiler is enabled on this template. Also after using `pnpm build` or `npm build` everything will be compiled at ./docs, files will use relative path.
+The React Compiler is enabled on this template. Also after using `pnpm build` or `npm run build` everything will be compiled at ./docs, files will use relative path.
 Easier for github pages deploy
 
 ## How to use it
